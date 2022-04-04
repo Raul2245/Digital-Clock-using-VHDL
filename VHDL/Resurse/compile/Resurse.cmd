@@ -1,1 +1,0 @@
--w -s "c:\My_Designs\Proiect\library.cfg"  -j "c:\My_Designs\Proiect\Resurse\projlib.cfg"  -d "c:\My_Designs\Proiect\Resurse\compile\"  -work Resurse -dbg -e 100 "c:\My_Designs\Proiect\Resurse\src\Organigrama.vhd" 
