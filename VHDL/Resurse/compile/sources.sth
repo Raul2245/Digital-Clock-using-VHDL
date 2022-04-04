@@ -1,0 +1,20 @@
+[Files List]
+d:\active\VLIB\STD/src/standard.vhd=S
+d:\active\VLIB\IEEE/src/stdlogic.vhd=S
+d:\active\VLIB\IEEE/src/arith.vhd=S
+d:\active\VLIB\IEEE/src/unsigned.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/decodificator_7seg.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/Comparator_4b.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/num_mod24.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/num_mod6.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/num_mod10.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/modul_afisare.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/modul_conversie.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/modul_comparare.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/modul_alarma.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/alarma.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/Bistabil_D.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/Ceas.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/Organigrama.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/clock_devider.vhd=S
+D:\Facultate\PSN\Proiect\Proiect_final\VHDL\Resurse/src/Final.vhd=S

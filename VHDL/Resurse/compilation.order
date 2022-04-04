@@ -1,0 +1,14 @@
+.\src\Comparator_4b.vhd
+.\src\Decodificator_7seg.vhd
+.\src\Num_mod10.vhd
+.\src\Num_mod6.vhd
+.\src\Num_mod24.vhd
+.\src\Organigrama.vhd
+.\src\Ceas.vhd
+.\src\Modul_conversie.vhd
+.\src\Modul_comparare.vhd
+.\src\Final.vhd
+.\src\Alarma.vhd
+.\src\Modul_afisare.vhd
+.\src\Bistabil_D.vhd
+.\src\Clock_devider.vhd

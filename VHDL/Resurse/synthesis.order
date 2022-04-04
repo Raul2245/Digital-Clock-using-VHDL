@@ -1,0 +1,16 @@
+i<>.\src\Comparator_6b.vhd
+i<>.\src\decodificator_7seg.vhd
+i<>.\src\numarator_dec.vhd
+i<>.\src\num_mod6.vhd
+i<>.\src\num_mod4.vhd
+i<>.\src\MUX2_1.vhd
+i<>.\src\MUX4_1_7b.vhd
+i<>.\src\Organigrama.vhd
+i<>.\src\Final.vhd
+i<>.\src\cascadare_num.vhd
+i<>.\src\num_mod24.vhd
+i<>.\src\Modul_afisare.vhd
+i<>.\src\modul_comparare.vhd
+i<>.\src\modul_afisare_@.vhd
+i<>.\src\Bistabil_D.vhd
+i<>.\src\clock_devider.vhd

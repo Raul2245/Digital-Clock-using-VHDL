@@ -1,0 +1,59 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#3#bitc2 01"
+$IN 1 1 AFISARE
+I 2 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+I 3 "e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 21 2 4 UTMIN
+$SC 5-17/4
+$BUS IN 38 2 4 UTHOUR
+$SC 22-34/4
+$BUS IN 55 2 4 UAMIN
+$SC 39-51/4
+$BUS IN 72 2 4 UAHOUR
+$SC 56-68/4
+I 4 "a#28#std_logic_vector(2 downto 0)1 ricd2 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 85 4 3 ZTMIN
+$SC 73-+8/4
+$BUS IN 98 4 3 ZAMIN
+$SC 86-+8/4
+I 5 "a#28#std_logic_vector(1 downto 0)1 ricd1 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN +13 5 2 ZTHOUR
+$SC 99 +4
+$BUS IN +13 5 2 1 4 A
+$SC +-8 +4
+I 6 "a#28#std_logic_vector(6 downto 0)1 ricd6 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT +33 6 7 UCTDMIN
+$SC 117-+24/4
+$BUS OUT +33 6 7 0 6 Z
+$SC 146-+24/4
+$BUS OUT +33 6 7 UCTDHOUR
+$SC 175-+24/4
+$BUS OUT +33 6 7 0 7 Z
+$SC 204-+24/4
+$ENDTIME 100000
+$WAVES 1
+=0 T 0
+$VALUES
+V 1
+0
+$END
+$WAVES 56-68/4 86-+8/4 +14 +4 +5-+24/4 +5-+24/4 +5-+24/4 +5-+24/4
+*0
+$VALUES
+V 1
+U
+$END
+$WAVES 5-+8/4 +9-+8/4 +9 +4 +8 73 +4 99
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 17 34 47 81 +22
+*0
+$VALUES
+V 1
+1
+$END
+$ENDWAVE

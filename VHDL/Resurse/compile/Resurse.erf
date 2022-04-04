@@ -1,0 +1,5 @@
+MESSAGE "File: c:\My_Designs\Proiect\Resurse\src\Organigrama.vhd" 
+MESSAGE "Compile Entity "UC"" 
+MESSAGE "Entity `UC' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "str_comp" of Entity "UC"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]" 

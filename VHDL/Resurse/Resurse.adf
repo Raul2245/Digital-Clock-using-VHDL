@@ -1,0 +1,66 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Resurse
+
+[Library]
+Resurse=.\Resurse.lib
+
+[$LibMap$]
+Resurse=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=aparat|arh_str|0            
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Comparator_4b.vhd=-1
+/Decodificator_7seg.vhd=-1
+/Num_mod10.vhd=-1
+/Num_mod6.vhd=-1
+/Num_mod24.vhd=-1
+/Organigrama.vhd=-1
+/Ceas.vhd=-1
+/Modul_conversie.vhd=-1
+/Modul_comparare.vhd=-1
+/Final.vhd=-1
+/Alarma.vhd=-1
+/Modul_afisare.vhd=-1
+/Bistabil_D.vhd=-1
+/Clock_devider.vhd=-1
+
+[Files.Data]
+.\src\Comparator_4b.vhd=VHDL Source Code
+.\src\Decodificator_7seg.vhd=VHDL Source Code
+.\src\Num_mod10.vhd=VHDL Source Code
+.\src\Num_mod6.vhd=VHDL Source Code
+.\src\Num_mod24.vhd=VHDL Source Code
+.\src\Organigrama.vhd=VHDL Source Code
+.\src\Ceas.vhd=VHDL Source Code
+.\src\Modul_conversie.vhd=VHDL Source Code
+.\src\Modul_comparare.vhd=VHDL Source Code
+.\src\Final.vhd=VHDL Source Code
+.\src\Alarma.vhd=VHDL Source Code
+.\src\Modul_afisare.vhd=VHDL Source Code
+.\src\Bistabil_D.vhd=VHDL Source Code
+.\src\Clock_devider.vhd=VHDL Source Code
+
